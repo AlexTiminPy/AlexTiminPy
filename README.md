@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexTiminPy
+- 👀 I’m interested in everything about programming
+- 🌱 I’m currently learning C# & unity
+- 💞️ I’m looking to collaborate with each of you
